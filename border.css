@@ -1,0 +1,38 @@
+p{
+     color: darkred;
+	border-style: double;
+	border-width: 10px 15px 10px 6px ;
+	border-radius: 90px;
+	border-color: darkred green orange burlywood;
+	width: 50%;
+
+
+	}
+	h1{
+		text-align: center;
+		border:solid;
+		border-image-source: url(https://illustoon.com/photo/7415.png);
+
+}
+
+#a1{
+	text-align: center;
+	background-color:white;
+	height: 300px;
+	width: 300px;
+	border-style: dotted;
+	border-color: red;
+	border-width: 20px;
+
+
+}
+#a2{
+	background-color: lightpink;
+	height: 290px;
+	width: 290px;
+	background-color: lightpink;
+}
+h2{ border: 10px solid transparent;
+	border-image: url('https://media.istockphoto.com/id/162721677/vector/border-frame-with-floral-pattern.jpg?s=612x612&w=is&k=20&c=xEaIda47C7Ksv-t7N6PBi18K9jXHNHnnOVNy7luphaY=') 30 round;
+	
+}
