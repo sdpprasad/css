@@ -33,6 +33,6 @@ p{
 	background-color: lightpink;
 }
 h2{ border: 10px solid transparent;
-	border-image: url('https://media.istockphoto.com/id/162721677/vector/border-frame-with-floral-pattern.jpg?s=612x612&w=is&k=20&c=xEaIda47C7Ksv-t7N6PBi18K9jXHNHnnOVNy7luphaY=') 30 round;
+	border-image: url('https://media.istockphoto.com/id/162721677/vector/border-frame-with-floral-pattern.jpg?s=612x612&w=is&k=20&c=xEaIda47C7Ksv-t7N6PBi18K9jXHNHnnOVNy7luphaY=') 30 round ;
 	
 }
